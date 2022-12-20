@@ -1,0 +1,16 @@
+python 3.6+
+pytorch 1.5.0
+opencv 3.4+
+cupy 9.1.0
+
+Train with a single GPU:
+train_xr.py
+
+Test with a single GPU:
+test_xr.py
+./model/pre.pth
+
+Backbone:
+LRBT_xr.py
+involution_xr.py
+
